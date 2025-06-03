@@ -1,1 +1,1 @@
-# Binkeyit Full Stack MERN App
+# Grocery Store Full Stack MERN App
