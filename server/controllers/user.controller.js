@@ -47,7 +47,7 @@ export async function registerUserController(request, response) {
 
     const verifyEmail = await sendEmail({
       sendTo: email,
-      subject: "Verify email from Grocery-store",
+      subject: "Verify email from Grovenza",
       html: verifyEmailTemplate({
         name,
         url: VerifyEmailUrl,
