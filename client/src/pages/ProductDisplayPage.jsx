@@ -171,7 +171,7 @@ const ProductDisplayPage = () => {
           </div>
         )}
 
-        <h2 className="font-semibold">Why shop from GROCERY STORE? </h2>
+        <h2 className="font-semibold">Why shop from GROVENZA? </h2>
         <div>
           <div className="flex  items-center gap-4 my-4">
             <img src={image1} alt="superfast delivery" className="w-20 h-20" />
