@@ -1,3 +1,3 @@
-# Grocery Store Full Stack MERN Ecommerce Website
+# GROVENZA - A Grocery Store
 
 - Welcome ! Hello
