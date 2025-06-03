@@ -11,8 +11,8 @@ const resend = new Resend(process.env.RESEND_API);
 const sendEmail = async ({ name, sendTo, subject, html }) => {
   try {
     const { data, error } = await resend.emails.send({
-      from: "Grocery-store <philipmatthew26@gmail.com>",
-      to: sendTo,
+      from: "Grocery Store <onboarding@resend.dev>",
+      to: [sendTo],
       subject: subject,
       html: html,
     });
